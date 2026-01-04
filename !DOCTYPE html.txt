@@ -84,21 +84,24 @@
   <div class="menu-item"><span>Hotdog</span><span>₱30</span></div>
   <div class="menu-item"><span>Atay</span><span>₱25</span></div>
   <div class="menu-item"><span>Tenga</span><span>₱30</span></div>
+  <div class="menu-item"><span>Pusit</span><span>₱50</span></div>
+  <div class="menu-item"><span>Liempo</span><span>₱60</span></div>
+  <div class="menu-item"><span>Baboy Belly</span><span>₱55</span></div>
 </section>
 
 <section>
-  <h2>Location</h2>
+  <h2>Oras & Location</h2>
   <p>
     📍 Kawit, Cavite <br>
     ⏰ 4:00 PM – 12:00 MN <br>
-    📞 09XX-XXX-XXXX
+    📞 Messenger: <a href="https://m.me/raisel.delrosario" target="_blank">Click to Order</a>
   </p>
 </section>
 
 <div class="cta">
   <h2>Order na!</h2>
   <p>Pwede take-out at pang-pulutan 😄</p>
-  <a href="https://www.facebook.com">Message sa Facebook</a>
+  <a href="https://m.me/raisel.delrosario" target="_blank">Message sa Messenger</a>
 </div>
 
 <footer>
