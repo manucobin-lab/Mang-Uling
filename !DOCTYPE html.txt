@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mang Uling Ihawan</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #fff;
+    }
+    header {
+      background: url('https://images.unsplash.com/photo-1558030006-450675393462') center/cover no-repeat;
+      padding: 80px 20px;
+      text-align: center;
+    }
+    header h1 {
+      font-size: 3em;
+      color: #ffb703;
+    }
+    header p {
+      font-size: 1.2em;
+    }
+    section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #ffb703;
+      border-bottom: 2px solid #ffb703;
+      padding-bottom: 5px;
+    }
+    .menu-item {
+      display: flex;
+      justify-content: space-between;
+      border-bottom: 1px dashed #444;
+      padding: 8px 0;
+    }
+    .cta {
+      background: #ffb703;
+      color: #111;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    .cta a {
+      background: #111;
+      color: #ffb703;
+      padding: 12px 25px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      background: #000;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mang Uling</h1>
+  <p>🔥 Ihaw sa Uling • Preskong Luto • Solid ang Lasa 🔥</p>
+</header>
+
+<section>
+  <h2>Tungkol sa Amin</h2>
+  <p>
+    Ang <strong>Mang Uling</strong> ay simpleng ihawan na may pusong Pinoy.
+    Araw-araw sariwa ang ihaw, lutong uling, at presyong pang-masa.
+  </p>
+</section>
+
+<section>
+  <h2>Menu</h2>
+  <div class="menu-item"><span>Isaw Baboy</span><span>₱25</span></div>
+  <div class="menu-item"><span>Isaw Manok</span><span>₱25</span></div>
+  <div class="menu-item"><span>BBQ</span><span>₱35</span></div>
+  <div class="menu-item"><span>Hotdog</span><span>₱30</span></div>
+  <div class="menu-item"><span>Atay</span><span>₱25</span></div>
+  <div class="menu-item"><span>Tenga</span><span>₱30</span></div>
+</section>
+
+<section>
+  <h2>Location</h2>
+  <p>
+    📍 Kawit, Cavite <br>
+    ⏰ 4:00 PM – 12:00 MN <br>
+    📞 09XX-XXX-XXXX
+  </p>
+</section>
+
+<div class="cta">
+  <h2>Order na!</h2>
+  <p>Pwede take-out at pang-pulutan 😄</p>
+  <a href="https://www.facebook.com">Message sa Facebook</a>
+</div>
+
+<footer>
+  © 2026 Mang Uling Ihawan • Luto sa Uling, Lasa ang Bida
+</footer>
+
+</body>
+</html>
